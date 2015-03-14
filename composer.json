@@ -9,7 +9,7 @@
 		"lstrojny/functional-php": "dev-master",
         "mews/captcha": "dev-master",
         "sunra/php-simple-html-dom-parser": "dev-master",
-        "roumen/feed": "dev-master",
+        "roumen/feed": "2.8.1",
         "knplabs/knp-snappy": "*",
         "intervention/image": "2.*",
         "laravelbook/ardent": "dev-master",
